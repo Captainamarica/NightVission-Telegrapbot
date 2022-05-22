@@ -1,4 +1,4 @@
-#    This file is part of the DARK EMPIRE distribution (https://github.com/DARKEMPIRESL/Telegraph-Uploader).
+#    This file is part of the DARK EMPIRE distribution (https://github.com/Captainamarica/NightVission-Telegrapbot).
 #    Copyright (c) 2021 Rithunand
 #    
 #    This program is free software: you can redistribute it and/or modify  
