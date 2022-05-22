@@ -1,7 +1,7 @@
 # Telegra.ph-Uploader
 
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./resources/extras/logo_readme.jpg" alt="https://te.legra.ph/file/4639ebcdc06761d31c9be.jpg">
 </p>
 
 A Telegram Bot Written In Python To Upload Medias To telegra.ph   
