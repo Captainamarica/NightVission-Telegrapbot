@@ -1,7 +1,7 @@
 {
-    "name": "Telegra.ph Uploader Bot",
+    "name": "Night Vission Telegra.ph Uploader Bot",
     "description": "A bot that can upload medias to Telegra.ph",
-    "logo": "https://te.legra.ph/file/3c78e19c905f980281630.jpg",
+    "logo": "https://te.legra.ph/file/4639ebcdc06761d31c9be.jpg",
     "keywords": [
         "Telegra.ph",
         "Uploader",
@@ -9,7 +9,7 @@
         "Benchamxd"
     ],
     "website": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader",
-    "repository": "https://github.com/DARKEMPIRESL/Telegra.ph-Uploader",
+    "repository": "https://github.com/Captainamarica/NightVission-Telegrapbot",
     "success_url": "https://telegram.dog/SLBotOfficial",
     "env": {
         "BOT_TOKEN": {
